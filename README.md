@@ -16,14 +16,14 @@ The dataset contains the following columns:
 6. Create various pivot tables and visualizations.
 
 ## Visualizations
-### Net Profit by Channel
-![Net Profit by Channel](images/git_ss1.PNG)
+### Cleaning Company
+![separate company name and location](img3.PNG)
 
 ### Average Impressions and Clicks
-![Average Impressions and Clicks](images/git_ss2.PNG)
+![Average Impressions and Clicks](img2.PNG)
 
-### Pie Chart: Clicks per Campaign
-![Pie Chart: Clicks per Campaign](images/git_ss3.PNG)
+### Charts: Dashboard
+![Charts: Dashboard](img1.PNG)
 
 ## Conclusion
 This project showcases data cleaning, pivot table analysis, and visualization techniques in Excel.
